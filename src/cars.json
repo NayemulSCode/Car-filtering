@@ -1,0 +1,122 @@
+[
+  {
+    "name": "R32",
+    "color": ["Teal", "Blue"],
+    "city": ["Malata", "Acas"],
+    "cars": ["Volkswagen", "Dodge"]
+  },
+  {
+    "name": "Ram Van B350",
+    "color": ["Pink"],
+    "city": ["Manolás"],
+    "cars": ["Dodge", "BMW"]
+  },
+  {
+    "name": "98",
+    "color": ["Goldenrod"],
+    "city": ["Pirapora"],
+    "cars": ["Oldsmobile", "Jeep"]
+  },
+  {
+    "name": "M5",
+    "color": ["Maroon", "Red"],
+    "city": ["Acas"],
+    "cars": ["BMW"]
+  },
+  {
+    "name": "Tacoma",
+    "color": ["Fuscia", "Blue"],
+    "city": ["Umanggudang"],
+    "cars": ["Toyota"]
+  },
+  {
+    "name": "GX",
+    "color": ["Yellow"],
+    "city": ["Junliangcheng"],
+    "cars": ["Lexus"]
+  },
+  {
+    "name": "Esprit",
+    "color": ["Orange", "Blue"],
+    "city": ["Mzuzu"],
+    "cars": ["Lotus"]
+  },
+  {
+    "name": "Marquis",
+    "color": ["Khaki"],
+    "city": ["Mingguang"],
+    "cars": ["Mercury"]
+  },
+  {
+    "name": "Sportage",
+    "color": ["Maroon"],
+    "city": ["Xiaozhen"],
+    "cars": ["Kia"]
+  },
+  {
+    "name": "Ram 1500",
+    "color": ["Puce"],
+    "city": ["Xinghe"],
+    "cars": ["Dodge"]
+  },
+  {
+    "name": "Mariner",
+    "color": ["Turquoise"],
+    "city": ["Osiek"],
+    "cars": ["Mercury"]
+  },
+  {
+    "name": "Corvette",
+    "color": ["Orange"],
+    "city": ["Repušnica"],
+    "cars": ["Chevrolet"]
+  },
+  {
+    "name": "Fortwo",
+    "color": ["Yellow"],
+    "city": ["Hannover"],
+    "cars": ["Smart"]
+  },
+  {
+    "name": "Cabriolet",
+    "color": ["Blue"],
+    "city": ["Pepe"],
+    "cars": ["Volkswagen"]
+  },
+  {
+    "name": "Aspire",
+    "color": ["Maroon"],
+    "city": ["Zongjia"],
+    "cars": ["Ford"]
+  },
+  {
+    "name": "Yukon XL 2500",
+    "color": ["Violet"],
+    "city": ["Hovorany"],
+    "cars": ["GMC"]
+  },
+  {
+    "name": "Corvette",
+    "color": ["Teal"],
+    "city": ["Hiseti"],
+    "cars": ["Chevrolet"]
+  },
+  {
+    "name": "ES",
+    "color": ["Fuscia"],
+    "city": ["Guadalupe"],
+    "cars": ["Lexus", "Kia"]
+  },
+  {
+    "name": "Patriot",
+    "color": ["Maroon"],
+    "city": ["Tambulig"],
+    "cars": ["Jeep"]
+  },
+  {
+    "name": "4Runner",
+    "color": ["Maroon"],
+    "city": ["Komiža"],
+    "cars": ["Toyota"]
+  }
+]

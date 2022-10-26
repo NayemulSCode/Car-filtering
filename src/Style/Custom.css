@@ -1,0 +1,28 @@
+.title_name{
+    font-size: 30px;
+}
+.title_name::after{
+    content: "";
+    width: 60px;
+    height: 2.4px;
+    background-color: red;
+    position: absolute;
+    bottom: -2px;
+    left: 47%;
+    /* transform: translate(-0%,-46%); */
+}
+.bg_body{
+    background: rgb(248, 237, 237);
+}
+.car_title{
+    font-size: 23px;
+    text-align: center;
+}
+.car_filter_box{
+    width: 180px;
+    padding:9.5px 0px;
+    font-size: 14px;
+}
+.box_name{
+    font-size: 14px;
+}
