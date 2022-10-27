@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useEffect } from 'react'
 import { useDispatch } from 'react-redux';
 import { tagRemoved, tagSelected } from '../features/filter/filterSlice';
 import { useCars, useCitys, useColors } from '../hooks/FilterData';
@@ -31,9 +31,14 @@ const FilterSelector = () => {
             return uri + separator + key + "=" + value;
         }
     }
+    useEffect(()=>{
+        let origin = new URL(document.location).origin
+        window.history.replaceState("", "", origin)
+    },[])
     function removeQueryStringParameter(uri, key, value) {
         var newurl = uri.replace(`&${key}=${value}`, "") ;
         window.history.replaceState("", "", newurl)
+        console.log("uri", newurl)
     }
     
     const handleQuerySearchParams=(e,type)=>{
