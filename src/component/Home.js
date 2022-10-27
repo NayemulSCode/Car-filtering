@@ -26,7 +26,6 @@ const Home = () => {
   }
   return (
       < >
-  
       {
         selectedContent.length !==0 ? <> 
           <h2 className='car_title'>Filter Cars</h2>
@@ -36,7 +35,6 @@ const Home = () => {
             {carContent}
            </>
       }
-        {/* {carContent} */}
       </>
   )
 }
